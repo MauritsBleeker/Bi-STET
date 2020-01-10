@@ -18,17 +18,17 @@ In data_utils/ I provided all the scripts to generate the train and test sets as
 
 # Python and package versions
 
-Python 3.7 
-Pillow	5.4.1	7.0.0
-nltk	3.4.5	3.4.5
-numpy	1.17.1	1.18.1
-scipy	1.2.0	1.4.1
-seaborn	0.9.0	0.9.0
-tensorboard-logger	0.1.0	
-tensorboardX	1.7	2.0
-torch	1.1.0.post2	1.3.1
-torchvision	0.2.1	0.4.2
-transformers	2.1.1	2.3.0
+* Python 3.7 
+* Pillow	5.4.1	
+* nltk	3.4.5	
+* numpy	1.17.1	
+* scipy	1.2.0	
+* seaborn	0.9.0	
+* tensorboard-logger	0.1.0	
+* tensorboardX	1.7	
+* torch	1.1.0.post2	
+* torchvision	0.2.1	
+*transformers	2.1.1	
 
 # Run
  
