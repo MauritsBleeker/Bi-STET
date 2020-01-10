@@ -1,22 +1,21 @@
 # Bi-STET
 
-This is the project repository for Bidirectional Scene Text Recognition with a Single Decoder, by Maurits Bleeker and Maarten de Rijke
+This is the project repository for 'Bidirectional Scene Text Recognition with a Single Decoder', by Maurits Bleeker and Maarten de Rijke
 
-The base source code of this project comes from: http://nlp.seas.harvard.edu/2018/04/03/attention.html
+https://arxiv.org/abs/1912.03656
+
+The base source-code of this project comes from: http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 I tried to keep te code as general as possible. But some elements of the pipeline are specially written for the environment I worked with. 
 
-## Model weights
+## Model weights and reproducibility
 
 To reproduce the results of the paper, please use the final model parameters. 
 
 https://drive.google.com/file/d/1OwJ3iVpRhnjIZyOi7aOQIeLv7N1DHZkC/view?usp=sharing
 
-## Reproduce the results
+In data_utils/ I provided all the scripts to generate the train and test sets as used for this paper.
 
-I added the processed valiation datasets and the model paramaters to reproduce the results. 
-
-I worked with a config class. The idea was to store the class after training en reload this during validation. However, tit tunred out to be 
 
 # Run
  
@@ -56,6 +55,7 @@ test/1002_1.png private
 # Data processing
 
 All the files to process the the original provided datasets are given in /data_utils.
+
 
 # Reference 
 If you found this code useful, please cite the following paper:
