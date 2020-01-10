@@ -1,8 +1,7 @@
 # Bi-STET
 
-This is the project repository for 'Bidirectional Scene Text Recognition with a Single Decoder', by Maurits Bleeker and Maarten de Rijke
+This is the project repository for 'Bidirectional Scene Text Recognition with a Single Decoder', by Maurits Bleeker and Maarten de Rijke [[pdf](https://arxiv.org/pdf/1912.03656.pdf)]
 
-https://arxiv.org/abs/1912.03656
 
 The base source-code of this project comes from: http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
