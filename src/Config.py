@@ -13,7 +13,7 @@ class Config:
 	EXPERIMENT_NAME = 'final'
 	ROOT_OUT_FOLDER = '../out'
 	OUPUT_FOLDER = os.path.join(ROOT_OUT_FOLDER, EXPERIMENT_NAME)
-	OUTFILE = 'bi-stet'
+	OUTFILE = 'bi-stet.cp'
 	LOG_FNAME = 'logging.log'
 	SAMPLES_PER_BATCH = 64
 
