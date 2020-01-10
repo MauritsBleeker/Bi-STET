@@ -19,7 +19,7 @@ In data_utils/ I provided all the scripts to generate the train and test sets as
 # Python and package versions
 
 * Python 3.7 
-* [Pillow]	(5.4.1)	
+* Pillow	5.4.1
 * nltk	3.4.5	
 * numpy	1.17.1	
 * scipy	1.2.0	
