@@ -210,14 +210,14 @@ class Config:
 		self.IIIT5K_LOCAL_ROOT = '/Users/mauritsbleeker/Documents/PhD/Github/Paper-implementations/STET/data/IIIT5K'
 
 		self.VALIDATION_DATASETS = [
-			# (self.IIIT5K_ROOT, self.IIIT5K_DATA_ANNOTATIONS, 'iiit5k'),
-			# (self.ICDAR03_ROOT, self.ICDAR03_DATA_ANNOTATIONS, 'icdar03'),
-			# (self.SVT_ROOT, self.SVT_DATA_ANNOTATIONS, 'svt'),
-			# (self.ICDAR13_ROOT, self.ICDAR13_DATA_ANNOTATIONS, 'icdar13'),
-			# (self.ICDAR15_ROOT, self.ICDAR15_DATA_ANNOTATIONS, 'icdar15'),
-			# (self.CUTE80_ROOT, self.CUTE80_DATA_ANNOTATIONS, 'cute80'),
-			# (self.SVTP_ROOT, self.SVTP_DATA_ANNOTATIONS, 'svtp'),
-			# (self.ICDAR03_ROOT_LOCAL, self.ICDAR03_DATA_ANNOTATIONS_LOCAL, 'icdar03_local'),
-			# (self.ICDAR13_ROOT_LOCAL, self.ICDAR13_DATA_ANNOTATIONS_LOCAL, 'icdar13_local'),
+			(self.IIIT5K_ROOT, self.IIIT5K_DATA_ANNOTATIONS, 'iiit5k'),
+			(self.ICDAR03_ROOT, self.ICDAR03_DATA_ANNOTATIONS, 'icdar03'),
+			(self.SVT_ROOT, self.SVT_DATA_ANNOTATIONS, 'svt'),
+			(self.ICDAR13_ROOT, self.ICDAR13_DATA_ANNOTATIONS, 'icdar13'),
+			(self.ICDAR15_ROOT, self.ICDAR15_DATA_ANNOTATIONS, 'icdar15'),
+			(self.CUTE80_ROOT, self.CUTE80_DATA_ANNOTATIONS, 'cute80'),
+			(self.SVTP_ROOT, self.SVTP_DATA_ANNOTATIONS, 'svtp'),
+			(self.ICDAR03_ROOT_LOCAL, self.ICDAR03_DATA_ANNOTATIONS_LOCAL, 'icdar03_local'),
+			(self.ICDAR13_ROOT_LOCAL, self.ICDAR13_DATA_ANNOTATIONS_LOCAL, 'icdar13_local'),
 			(self.IIIT5K_LOCAL_ROOT, self.IIIT5K_DATA_ANNOTATIONS, 'iiit5k'),
 		]
