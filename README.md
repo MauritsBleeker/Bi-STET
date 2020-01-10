@@ -28,7 +28,7 @@ In data_utils/ I provided all the scripts to generate the train and test sets as
 * tensorboardX	1.7	
 * torch	1.1.0.post2	
 * torchvision	0.2.1	
-*transformers	2.1.1	
+* transformers	2.1.1	
 
 # Run
  
