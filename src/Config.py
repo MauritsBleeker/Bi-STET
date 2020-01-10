@@ -207,8 +207,6 @@ class Config:
 		self.WORD_LENGTH_ACCURACY = True
 		self.BIDIRECTIONAL_DECODING = True
 
-		self.IIIT5K_LOCAL_ROOT = '/Users/mauritsbleeker/Documents/PhD/Github/Paper-implementations/STET/data/IIIT5K'
-
 		self.VALIDATION_DATASETS = [
 			(self.IIIT5K_ROOT, self.IIIT5K_DATA_ANNOTATIONS, 'iiit5k'),
 			(self.ICDAR03_ROOT, self.ICDAR03_DATA_ANNOTATIONS, 'icdar03'),
