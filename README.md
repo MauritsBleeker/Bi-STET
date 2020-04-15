@@ -30,7 +30,7 @@ In the folder data_utils/, all the scripts to generate the train and test sets a
 
 # Run
  
-To run the code, just run ```main.py```, and set all the condifurations in the Config.py. The configutations to reproduce the results are set in the ```Config.py``` file.
+To run the code, just run ```main.py```, and set all the configurations in the Config.py. The configurations to reproduce the results are set in the ```Config.py``` file.
  
 # Training
 
