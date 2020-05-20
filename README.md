@@ -4,7 +4,7 @@ This is the repository for 'Bidirectional Scene Text Recognition with a Single D
 
 The base source-code for this project comes from: http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
-I have tried to keep te code as general as possible. However, some elements of the pipeline are specially for the environment I worked with. 
+I have tried to keep the code as general as possible. However, some elements of the pipeline are specially for the environment I worked with. 
 
 ## Model weights and reproducibility
 
