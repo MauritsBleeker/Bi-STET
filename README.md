@@ -57,7 +57,7 @@ Example root folder: User/Documents/Project/data/IIITK/
 
 In User/Documents/Project/data/IIITK/, we have an annotation.txt and the images.
 
-An example of annotation the file: 
+An example of the annotation file: 
 ```
 test/1002_1.png private
 
